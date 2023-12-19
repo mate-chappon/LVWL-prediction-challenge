@@ -6,3 +6,5 @@ https://drive.google.com/drive/folders/1FoNiG40HrZ_ItrBAQZu-LpLESlv6IrjY?usp=sha
 
 You can always check the current water level of the lake, and the changes of LWL in the past 3 weeks at: 
 https://www.vizugy.hu/?mapModule=OpGrafikon&AllomasVOA=1649619E-97AB-11D4-BB62-00508BA24287&mapData=OrasIdosor#mapModule
+
+In case you have any questions, use the discussions tab, or email me at: chappon.mate@sze.hu
