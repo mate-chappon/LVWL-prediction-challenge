@@ -1,1 +1,5 @@
-
+Meteorological data and initial lake water level will be uploaded in this folder on 31st January 2024.
+By accessing meteorological forecast data, you consent to using the accessed data only for the purposes of predicting lake water levels in Lake Velence within the framework of this scientific challenge.
+Water level predictions of Lake Velence for February 2024 will have to be submitted (uploaded) to this folder until 3rd February 2024, using the template csv file in this folder. 
+Please name the csv file in the following format, inserting your first and last names: 'FirstName_LastName_LV-LWL-prediction_February_2024'.csv
+In case you have any problems you can message me at chappon.mate@sze.hu
