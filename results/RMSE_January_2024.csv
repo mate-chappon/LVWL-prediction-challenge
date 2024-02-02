@@ -1,5 +1,4 @@
-﻿"LAKE VELENCE LWL
-AGÁRD";Observed LWL (hourly);;;Observed LWL (daily average);;;Oi;;Pi (Matthew Chapman);(Oi-Pi)^2;RMSE;;
+﻿"LAKE VELENCE LWL AGÁRD";Observed LWL (hourly);;;Observed LWL (daily average);;;Oi;;Pi (Matthew Chapman);(Oi-Pi)^2;RMSE;;
 2024.01.31 23:00;127;;2024.01.31;127;;2024.01.01;111;;111;0;7.23;;
 2024.01.31 22:00;127;;2024.01.30;126;;2024.01.02;112;;111;1;;;
 2024.01.31 21:00;127;;2024.01.29;126;;2024.01.03;113;;112;1;;;
