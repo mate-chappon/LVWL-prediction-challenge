@@ -1,0 +1,5 @@
+Meteorological forecast data and initial lake water level will be uploaded to this folder until 30th September 2024, and updated with forecast data for the last days of October on the morning of 4th October.
+By accessing meteorological forecast data, you consent to using the accessed data only for the purposes of predicting lake water levels in Lake Velence within the framework of this scientific challenge.
+Water level predictions of Lake Velence for October 2024 will have to be submitted (uploaded) to the submit subfolder until 4th October 2024, using the template csv file in this folder. 
+Please name the csv file in the following format, inserting your first and last names: 'FirstName_LastName_LV-LWL-prediction_October_2024'.csv
+In case you have any problems you can message me at chappon.mate@sze.hu
